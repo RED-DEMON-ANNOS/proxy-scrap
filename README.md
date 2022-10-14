@@ -39,7 +39,7 @@ python proxy.py
 #### MY SOCIAL MEDIA
 
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=red&labelColor=black)](https://github.com/RED-DEMON-ANNOS) <br>
-[![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=red&labelColor=black)](https://www.facebook.com/MR.ANNOS) <br>
+[![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=red&labelColor=black)](https://www.facebook.com/MR.ANNOS007) <br>
 [![](https://img.shields.io/badge/Instagram-black?logo=Instagram&logoColor=red&labelColor=black)](https://www.instagram.com/annos_007) <br>
 
 ### Result
